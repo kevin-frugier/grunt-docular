@@ -28,7 +28,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "docular": "~0.8.0",
+    "docular": "git+https://github.com/kevin-frugier/docular.git",
     "docular-ng-plugin": "*",
     "docular-markdown-plugin": "*",
     "colors": "*",
